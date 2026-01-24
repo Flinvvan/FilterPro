@@ -29,7 +29,7 @@
 - **Burp Suite Professional/Community 版本**：>= 2023.12.1
 
 ### 安装步骤
-1. **下载插件**：[FilterPro.jar](https://github.com/Flinvvan/FilterPro/releases/latest/download/FilterPro.jar)
+1. **下载插件**：[FilterPro.jar](https://github.com/Flinvvan/FilterPro/releases/tag/1.0.0)
 2. **Burp 加载插件**：**Extensions --> Add --> Java --> Select file --> FilterPro --> Next**
 
 ![image-20260124151608957](https://github.com/Flinvvan/FilterPro/blob/main/images/0.png)
@@ -98,6 +98,7 @@ FilterPro 提供了多种直观的规则生成方式，以适应不同的过滤�
 </div>
 
 </div>
+
 
 
 
