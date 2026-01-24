@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="C:\Users\14510\Desktop\MyFilterPro\biglog.png" alt="FilterPro Logo" style="display: block; margin: 0 auto;" />
+    <img src="https://github.com/Flinvvan/FilterPro/blob/main/biglog.png" alt="FilterPro Logo" style="display: block; margin: 0 auto;" />
 
 
   [![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Plugin-orange?style=flat-square&logo=burpsuite&logoColor=white)](https://portswigger.net/burp)
@@ -11,7 +11,6 @@
 
 ---
 
-![biglogo](C:\Users\14510\Desktop\MyFilterPro\biglogo.png)
 
 ## 📋 项目简介
 
@@ -33,7 +32,7 @@
 1. **下载插件**：[FilterPro.jar](https://github.com/Flinvvan/FilterPro/releases/latest/download/FilterPro.jar)
 2. **Burp 加载插件**：**Extensions --> Add --> Java --> Select file --> FilterPro --> Next**
 
-![image-20260124151608957](C:\Users\Fvnct10n\AppData\Roaming\Typora\typora-user-images\image-20260124151608957.png)
+![image-20260124151608957](https://github.com/Flinvvan/FilterPro/blob/main/images/0.png)
 
 > 💡 **提示**：上图演示基于 Burp Suite v2025.5 版本，其他版本操作类似
 
@@ -43,7 +42,7 @@
 
 FilterPro 提供了多种直观的规则生成方式，以适应不同的过滤场景。
 
-![image-20260124145303449](C:\Users\Fvnct10n\AppData\Roaming\Typora\typora-user-images\image-20260124145303449.png)
+![image-20260124145303449](https://github.com/Flinvvan/FilterPro/blob/main/images/1.png)
 
 | 规则类型           | 适用场景                                                   | 示例/说明                                                    |
 | ------------------ | ---------------------------------------------------------- | ------------------------------------------------------------ |
@@ -58,7 +57,7 @@ FilterPro 提供了多种直观的规则生成方式，以适应不同的过滤�
 
 为解决多目标测试时的规则混乱问题，FilterPro 引入了分组管理功能。
 
-![image-20260124145852380](C:\Users\Fvnct10n\AppData\Roaming\Typora\typora-user-images\image-20260124145852380.png)
+![image-20260124145852380](https://github.com/Flinvvan/FilterPro/blob/main/images/2.png)
 
 - 你可以为**不同的测试站点或项目**创建独立的规则分组。
 - 所有规则都保存在**一个配置文件**中，方便携带和分享。
@@ -74,15 +73,15 @@ FilterPro 提供了多种直观的规则生成方式，以适应不同的过滤�
 
 1. **生成规则**：在插件界面勾选或创建你需要的过滤规则，然后点击 **「生成正则」** 按钮。
 
-![image-20260124150007531](C:\Users\Fvnct10n\AppData\Roaming\Typora\typora-user-images\image-20260124150007531.png)
+![image-20260124150007531](https://github.com/Flinvvan/FilterPro/blob/main/images/3.png)
 
 2. **粘贴到 Burp Filter**：切换到 Burp 的 **Proxy -> HTTP history** 选项卡，找到过滤器输入框，将剪贴板中的正则表达式粘贴进去。
 
-![image-20260124150233777](C:\Users\Fvnct10n\AppData\Roaming\Typora\typora-user-images\image-20260124150233777.png)
+![image-20260124150233777](https://github.com/Flinvvan/FilterPro/blob/main/images/4.png)
 
 3. **启用正则匹配**：注意别忘了打开这两个配置
 
-![image-20260124150200844](C:\Users\Fvnct10n\AppData\Roaming\Typora\typora-user-images\image-20260124150200844.png)
+![image-20260124150200844](https://github.com/Flinvvan/FilterPro/blob/main/images/5.png)
 
 ## ❤️支持项目
 
@@ -99,4 +98,5 @@ FilterPro 提供了多种直观的规则生成方式，以适应不同的过滤�
 </div>
 
 </div>
+
 
